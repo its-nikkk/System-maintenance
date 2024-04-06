@@ -2,7 +2,7 @@
 
 # System Maintenance Script
 
-This Python script automates routine system maintenance tasks on Debian-based systems. It performs the following operations:
+This Python script automates routine system maintenance tasks on Debian-based systems. It performs the following operations
 
 1. Updates package repositories and installs updates.
 2. Cleans up package cache.
